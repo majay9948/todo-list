@@ -1,0 +1,17 @@
+{
+  "name": "basic_todo_api",
+  "version": "1.0.0",
+  "description": "Simple Mini Project for my Javascript Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhiram K <abhiram@cklabs.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "typeorm": "^0.2.32"
+  }
+}
